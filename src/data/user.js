@@ -1,12 +1,11 @@
-const user = {
-  name: "Liza",
+export const user = {
+  name: "Quincy",
   city: "New York",
   bio: "I made this!",
   color: "firebrick",
-  links: {
-    github: "https://github.com/liza",
-    linkedin: "https://www.linkedin.com/in/liza/",
-  },
-};
+   github: "https://github.com/liza",
+  linkedin: "https://www.linkedin.com/in/liza/",
+  };
+
 
 export default user;
